@@ -1,0 +1,24 @@
+{
+    "videos": [
+      {
+        "id":"1",
+          "video_title": "Shree Suktam Laxmi Mantra",
+        "date_of_upload": "2023/28/05",
+        "thumbnail":"https://thumbs2.imgbox.com/0e/9b/7O5kAYyU_t.jpg",
+        "video_views":"11k",
+        "video_duration":"20 days ago",
+        "channelname":"Bhakti Dham",
+        "video_code":"22a540ad-9b94-46b3-9ede-befeea49a63b"        
+      },
+    {
+      "id":"2",
+        "video_title": "Baharon Phool Barsao",
+      "date_of_upload": "2021/10/05",
+      "thumbnail":"https://images2.imgbox.com/df/4b/P1UWhDio_o.jpeg",
+      "video_views":"1k",
+      "video_duration":"1 months ago",
+      "channelname":"Filmi Gaane",      
+      "video_code":"89077c5a-429e-4ec9-9596-1fb8459c7ac9"
+    }
+    ]
+}
